@@ -1,8 +1,11 @@
 # Platonic Solids Viewer
 
-5개의 정다면체를 홀로그래픽 3D로 렌더링하는 macOS 데스크탑 앱입니다.
+5개의 정다면체를 홀로그래픽 3D로 렌더링하는 macOS 데스크탑 앱
 
-![Platonic Solids](docs/preview.png)
+
+https://github.com/user-attachments/assets/bcbedbc6-82ed-47e4-8be7-d7196d4f02bb
+
+
 
 ## 기능
 
